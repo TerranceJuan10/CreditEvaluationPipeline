@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ihiI4RdLkeQ=",
+  "dgSpecHash": "XQsoK6exSc4=",
   "success": true,
   "projectFilePath": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Creditevaluation.csproj",
   "expectedPackageFiles": [
@@ -90,6 +90,7 @@
     "C:\\Users\\terrance.antony\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\terrance.antony\\.nuget\\packages\\microsoft.net.stringtools\\17.8.3\\microsoft.net.stringtools.17.8.3.nupkg.sha512",
     "C:\\Users\\terrance.antony\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\terrance.antony\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
     "C:\\Users\\terrance.antony\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.7\\microsoft.visualstudio.web.codegeneration.8.0.7.nupkg.sha512",
     "C:\\Users\\terrance.antony\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.7\\microsoft.visualstudio.web.codegeneration.core.8.0.7.nupkg.sha512",
     "C:\\Users\\terrance.antony\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.7\\microsoft.visualstudio.web.codegeneration.design.8.0.7.nupkg.sha512",
