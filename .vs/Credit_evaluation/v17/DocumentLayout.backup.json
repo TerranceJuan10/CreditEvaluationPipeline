@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevOpsAPI\\Credit_evaluation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|d:\\devopsapi\\credit_evaluation\\creditevaluation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|solutionrelative:creditevaluation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|d:\\devopsapi\\credit_evaluation\\creditevaluation\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|solutionrelative:creditevaluation\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|d:\\devopsapi\\credit_evaluation\\creditevaluation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|solutionrelative:creditevaluation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|d:\\devopsapi\\credit_evaluation\\creditevaluation\\model\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|solutionrelative:creditevaluation\\model\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|d:\\devopsapi\\credit_evaluation\\creditevaluation\\creditevaluation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|solutionrelative:creditevaluation\\creditevaluation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|d:\\devopsapi\\credit_evaluation\\creditevaluation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|solutionrelative:creditevaluation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|d:\\devopsapi\\credit_evaluation\\creditevaluation\\migrations\\20250710053817_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA147725-1690-467B-9B84-773E172D70EA}|Creditevaluation\\Creditevaluation.csproj|solutionrelative:creditevaluation\\migrations\\20250710053817_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationsController.cs",
+              "DocumentMoniker": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Controllers\\CalculationsController.cs",
+              "RelativeDocumentMoniker": "Creditevaluation\\Controllers\\CalculationsController.cs",
+              "ToolTip": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Controllers\\CalculationsController.cs",
+              "RelativeToolTip": "Creditevaluation\\Controllers\\CalculationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:42:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250710053817_Init.cs",
+              "DocumentMoniker": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Migrations\\20250710053817_Init.cs",
+              "RelativeDocumentMoniker": "Creditevaluation\\Migrations\\20250710053817_Init.cs",
+              "ToolTip": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Migrations\\20250710053817_Init.cs",
+              "RelativeToolTip": "Creditevaluation\\Migrations\\20250710053817_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:38:17.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\appsettings.json",
+              "RelativeDocumentMoniker": "Creditevaluation\\appsettings.json",
+              "ToolTip": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\appsettings.json",
+              "RelativeToolTip": "Creditevaluation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T05:36:32.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Program.cs",
+              "RelativeDocumentMoniker": "Creditevaluation\\Program.cs",
+              "ToolTip": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Program.cs",
+              "RelativeToolTip": "Creditevaluation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:36:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Data\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "Creditevaluation\\Data\\AppDBcontext.cs",
+              "ToolTip": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Data\\AppDBcontext.cs",
+              "RelativeToolTip": "Creditevaluation\\Data\\AppDBcontext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:34:55.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Model\\Calculation.cs",
+              "RelativeDocumentMoniker": "Creditevaluation\\Model\\Calculation.cs",
+              "ToolTip": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Model\\Calculation.cs",
+              "RelativeToolTip": "Creditevaluation\\Model\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:33:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Creditevaluation.csproj",
+              "DocumentMoniker": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Creditevaluation.csproj",
+              "RelativeDocumentMoniker": "Creditevaluation\\Creditevaluation.csproj",
+              "ToolTip": "D:\\DevOpsAPI\\Credit_evaluation\\Creditevaluation\\Creditevaluation.csproj",
+              "RelativeToolTip": "Creditevaluation\\Creditevaluation.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T05:32:50.905Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

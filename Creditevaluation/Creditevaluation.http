@@ -1,0 +1,6 @@
+@Creditevaluation_HostAddress = http://localhost:5234
+
+GET {{Creditevaluation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
